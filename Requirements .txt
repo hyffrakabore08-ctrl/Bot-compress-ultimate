@@ -1,0 +1,4 @@
+# Libs pour Telegram
+pyrogram
+python-telegram-bot
+tg-crypto
